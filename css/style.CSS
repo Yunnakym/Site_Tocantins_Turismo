@@ -1,0 +1,8 @@
+/*cor de fundo do home, contatos...*/
+.nav-top{
+    background-color: rgba(19, 16, 16, 0.596) !important;
+}
+/*cor dos nomes Home, contatos...*/
+.nav-link{
+    color: white !important;
+}
