@@ -1,8 +1,59 @@
 /*cor de fundo do home, contatos...*/
-.nav-top{
-    background-color: rgba(19, 16, 16, 0.596) !important;
+.nav-top {
+    background-color: rgba(6, 12, 94, 0.596) !important;
 }
+
 /*cor dos nomes Home, contatos...*/
-.nav-link{
+.nav-link {
     color: white !important;
+}
+
+/*rodapé*/
+footer {
+    background-color: rgba(6, 12, 94, 0.596) !important;
+    color: white !important;
+    text-align: center !important;
+}
+
+.car-img {
+    max-height: 40em !important;
+}
+
+.carousel-caption {
+    background-color: rgba(82, 77, 77, 0.739) !important;
+}
+
+/*DIVISÃO*/
+.divisao{
+    background-color: rgb(47, 47, 114) !important;
+    text-align: center !important;
+    color: white !important;
+    padding: 2em !important;
+}
+
+.sec-pacotes {
+    /*CENTRALIZAR IMAGEM*/
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    justify-content: center !important;
+    margin: 1% !important;
+}
+ /*ajustar os cards que aparecem ds fotos pequenas*/
+.card{
+    padding: 1% !important;
+    margin: 0% 1% 1% !important;
+}
+/*ajuste o noem das cidades text*/
+.card p{
+    text-align: justify !important;
+}
+/*cor dos nomes da cidade*/
+.card h4{
+    color: brown !important;
+}
+/*Contatos*/
+.sec-contato{
+    margin-bottom: 10% !important;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
 }
