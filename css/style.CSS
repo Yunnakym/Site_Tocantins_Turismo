@@ -1,6 +1,6 @@
 /*cor de fundo do home, contatos...*/
 .nav-top {
-    background-color: rgba(9, 54, 139, 0.596)!important;
+    background-color: rgba(69, 70, 124)  !important;
 }
 
 /*cor dos nomes Home, contatos...*/
@@ -10,7 +10,7 @@
 
 /*rodapé*/
 footer {
-    background-color: rgba(9, 54, 139, 0.596) !important;
+    background-color: rgba(69, 70, 124)  !important;
     color: white !important;
     text-align: center !important;
 }
@@ -20,12 +20,12 @@ footer {
 }
 
 .carousel-caption {
-    background-color: rgba(165, 139, 139, 0.739) !important;
+    background-color: rgba(151, 152, 202, 0.739) !important;
 }
 
 /*DIVISÃO CONHEÇA O TOCANTIS E FALE CONOSCO */
-.divisao{
-    background-color: rgb(76, 76, 214) !important;
+.divisao {
+    background-color: rgb(69, 70, 124) !important;
     text-align: center !important;
     color: white !important;
     padding: 2em !important;
@@ -38,31 +38,39 @@ footer {
     justify-content: center !important;
     margin: 1% !important;
 }
- /*ajustar os cards que aparecem ds fotos pequenas*/
-.card{
+
+/*ajustar os cards que aparecem ds fotos pequenas*/
+.card {
     padding: 1% !important;
     margin: 0% 1% 1% !important;
 }
+
 /*ajuste o noem das cidades text*/
-.card p{
+.card p {
     text-align: justify !important;
 }
+
 /*cor dos nomes da cidade*/
-.card h4{
+.card h4 {
     color: rgb(22, 20, 20) !important;
 }
+
 /*Contatos*/
-.sec-contato{
+.sec-contato {
     margin-bottom: 10% !important;
     margin-left: 10% !important;
     margin-right: 10% !important;
+    background-color: rgb(151, 152, 202, 0.739);
+    margin: 3% !important;
+    border-radius: 2em !important;
 }
+
 .links {
     text-align: center;
     padding: 1em;
     color: rgb(0, 0, 0);
 }
 
-.mapa{
-    margin-top: 5%!important;
+.mapa {
+    margin-top: 5% !important;
 }
